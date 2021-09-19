@@ -1,5 +1,6 @@
 # Apple Files
 .DS_Store
+.env
 
 # Redis Data Folder
 redisdata/
