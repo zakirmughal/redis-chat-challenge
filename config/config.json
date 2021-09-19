@@ -1,0 +1,6 @@
+{
+  "server": {
+    "port": 3099
+  },
+  "jwtSecretKey": "dsh154fee543"
+}
